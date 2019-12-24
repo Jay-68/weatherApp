@@ -1,0 +1,31 @@
+body {
+  height: 100vh;
+  color: white;
+  background: linear-gradient(rgb(47, 150, 163), rgb(48, 62, 143));
+}
+
+.location, .temperature {
+  height: 30vh;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.temperature {
+  flex-direction: column;
+}
+
+.degree-section {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.degree-section span {
+  font-size: 20px;
+  display: flex;
+  margin: 10px;
+}
+
+.degree-section h3 {
+  font-size: 25px;
+}
