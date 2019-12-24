@@ -15,14 +15,21 @@ This is a basic application created with html, css and javascript.
 ![A screenshot of the website's landing page.](images/weather.png)
 
 ## Setup Information
-`
+
     git clone https://github.com/Jay-68/weatherApp
-    //Open the file index.html to access the website.
-`
+
+    // Open the file index.html to access the website.
+
+    // Allow for the application to access your current location for it to work.
+
 
 ## Features
 
-* After the webpage loads, 
+* Its a weather app..weather.
+
+## Future Implementations
+- Custom welcome message with user names.
+- Provide more information on weather patterns both past and future.
 
 ## Technologies Used
 
@@ -37,6 +44,6 @@ This is a basic application created with html, css and javascript.
 
 ## License
 
-MIT - <https://opensource.org/licenses/MIT> 
+MIT - <https://opensource.org/licenses/MIT>
 
 &copy; James Ngari N.
