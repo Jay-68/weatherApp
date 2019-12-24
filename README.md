@@ -6,7 +6,7 @@
 
 #### Version v1.0
 
-Click on this [link](https://jay-68.github.io/akan-naming-system/) to view the application.
+Click on this [link](https://jay-68.github.io/weatherApp/) to view the application.
 
 ## Description
 
