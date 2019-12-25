@@ -6,26 +6,13 @@
 
 #### Version v1.0
 
-Click on this [link](https://jay-68.github.io/weatherApp/) to view the application.
+Click on this to view the application.
 
 ## Description
 
 This is a basic application created with html, css and javascript.
 
 ![A screenshot of the website's landing page.](images/weather.png)
-
-## Setup Information
-
-    git clone https://github.com/Jay-68/weatherApp
-
-    // Open the file index.html to access the website.
-
-    // Allow for the application to access your current location for it to work.
-
-
-## Features
-
-* Its a weather app..weather.
 
 ## Future Implementations
 - Custom welcome message with user names.
